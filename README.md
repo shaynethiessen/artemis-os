@@ -3,13 +3,13 @@ OS Install Scripts
 
 Applications
 
-Core
+## Core
 - OS components
-Firmware
+## Firmware
 - Drivers and microcode
-Networking
+## Networking
 - Network related applications and tools
-Security
+## Security
 - Security related applications and tools.
-Utilities
+## Utilities
 - Archiver, Calculator, Disk Formatter etc.
