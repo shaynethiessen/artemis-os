@@ -36,11 +36,5 @@ apt-get install --no-install-recommends -y qml-module-org-kde-newstuff
 echo "KDE screen management software"
 apt-get install --no-install-recommends -y kscreen
 
-echo "KDE tool for mounting/formatting disks"
-apt-get install --no-install-recommends -y partitionmanager
-
-echo "Support for ntfs formatted drives"
-apt-get install --no-install-recommends -y ntfs-3g
-
 echo "Creates default home directories"
 apt-get install --no-install-recommends -y xdg-user-dirs
