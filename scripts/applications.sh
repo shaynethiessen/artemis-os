@@ -12,3 +12,13 @@ apt-get install --no-install-recommends -y Kate
 echo "Office productivity suite"
 apt-get install --no-install-recommends -y libreoffice
 
+echo "Transitional package for LibreOffice KDE integration"
+apt-get install --no-install-recommends -y libreoffice-kde5
+
+echo "Breeze icons for LibreOffice"
+apt-get install --no-install-recommends -y libreoffice-style-breeze
+
+echo "Image Viewer"
+apt-get install --no-install-recommends -y gwenview
+
+

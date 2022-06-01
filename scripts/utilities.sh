@@ -25,7 +25,16 @@ echo "Unarchiver for .rar files"
 apt-get install --no-install-recommends -y unrar-free
 
 echo "Archiver for .rar files"
-apt-get install --no-install-recommends -y raree
+apt-get install --no-install-recommends -y rar
 
 echo "Retrieves files from the web"
 apt-get install --no-install-recommends -y wget
+
+echo "Graphics file format thumbnailers for KDE SC"
+apt-get install --no-install-recommends -y kdegraphics-thumbnailers
+
+echo "KDE plugin to show thumbnails of Debian package files"
+apt-get install --no-install-recommends -y kde-thumbnailer-deb
+
+echo "Fast and lightweight video thumbnailer"
+apt-get install --no-install-recommends -y ffmpegthumbnailer

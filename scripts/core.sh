@@ -12,6 +12,15 @@ apt-get install --no-install-recommends -y plasma-workspace
 echo "Plasma Desktop offers a beautiful looking desktop that takes complete advantage of modern computing technology."
 apt-get install --no-install-recommends -y plasma-desktop
 
+echo "GTK theme built to match KDE's Breeze"
+apt-get install --no-install-recommends -y breeze-gtk-theme
+
+echo "KDE configuration module for GTK+ 2.x and GTK+ 3.x styles selection"
+apt-get install --no-install-recommends -y kde-config-gtk-style
+
+echo "KDE configuration module for GTK+ 2.x and GTK+ 3.x styles selection (extras)"
+apt-get install --no-install-recommends -y kde-config-gtk-style-preview
+
 echo "Konsole is a terminal emulator built on the KDE Platform."
 apt-get install --no-install-recommends -y konsole
 
