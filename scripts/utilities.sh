@@ -38,3 +38,6 @@ apt-get install --no-install-recommends -y kde-thumbnailer-deb
 
 echo "Fast and lightweight video thumbnailer"
 apt-get install --no-install-recommends -y ffmpegthumbnailer
+
+echo "Quake-style terminal emulator based on KDE Konsole technology"
+apt-get install --no-install-recommends -y yakuake
