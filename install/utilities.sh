@@ -41,3 +41,6 @@ apt-get install --no-install-recommends -y ffmpegthumbnailer
 
 echo "Quake-style terminal emulator based on KDE Konsole technology"
 apt-get install --no-install-recommends -y yakuake
+
+echo "System information viewer"
+apt-get install --no-install-recommends -y kinfocenter
