@@ -44,3 +44,6 @@ apt-get install --no-install-recommends -y yakuake
 
 echo "System information viewer"
 apt-get install --no-install-recommends -y kinfocenter
+
+echo "Wallpapers for integrated use with the Plasma workspace"
+apt-get install --no-install-recommends -y plasma-workspace-wallpapers
