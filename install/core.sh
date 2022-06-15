@@ -50,3 +50,6 @@ apt-get install --no-install-recommends -y xdg-user-dirs
 
 echo "FFmpeg-based thumbnail creator for video files "
 apt-get install --no-install-recommends -y ffmpegthumbs
+
+echo "Extra functionality for kioslaves (needed for thumbnails to work)"
+apt-get install --no-install-recommends -y kio-extras
