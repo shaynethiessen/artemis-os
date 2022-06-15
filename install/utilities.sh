@@ -47,3 +47,6 @@ apt-get install --no-install-recommends -y kinfocenter
 
 echo "Wallpapers for integrated use with the Plasma workspace"
 apt-get install --no-install-recommends -y plasma-workspace-wallpapers
+
+echo "Disk usage analysis"
+apt-get install --no-install-recommends -y filelight
