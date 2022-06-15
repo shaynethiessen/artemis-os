@@ -21,4 +21,5 @@ apt-get install --no-install-recommends -y libreoffice-style-breeze
 echo "Image Viewer"
 apt-get install --no-install-recommends -y gwenview
 
-
+echo "Video Player"
+apt-get install --no-install-recommends -y dragonplayer
