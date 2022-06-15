@@ -23,3 +23,6 @@ apt-get install --no-install-recommends -y gwenview
 
 echo "Video Player"
 apt-get install --no-install-recommends -y dragonplayer
+
+echo "PDF viewer"
+apt-get install --no-install-recommends -y okular
