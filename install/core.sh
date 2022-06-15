@@ -47,3 +47,6 @@ apt-get install --no-install-recommends -y kscreen
 
 echo "Creates default home directories"
 apt-get install --no-install-recommends -y xdg-user-dirs
+
+echo "FFmpeg-based thumbnail creator for video files "
+apt-get install --no-install-recommends -y ffmpegthumbs
