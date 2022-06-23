@@ -7,7 +7,7 @@ echo "Extension for common browsers to closer fit into the Plasma shell. This in
 apt-get install --no-install-recommends -y plasma-browser-integration
 
 echo "Simple text editor"
-apt-get install --no-install-recommends -y Kate
+apt-get install --no-install-recommends -y kate
 
 echo "Office productivity suite"
 apt-get install --no-install-recommends -y libreoffice
