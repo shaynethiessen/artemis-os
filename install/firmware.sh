@@ -27,3 +27,7 @@ apt-get install --no-install-recommends -y linux-headers-amd64
 echo "Nvidia drivers"
 apt-get install --no-install-recommends -y nvidia-driver
 
+echo "NVIDIA binary Vulkan Spir-V compiler librar"
+apt install --no-install-recommends -y libnvidia-glvkspirv
+
+
