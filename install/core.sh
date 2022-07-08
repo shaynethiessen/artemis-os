@@ -30,6 +30,9 @@ apt-get install --no-install-recommends -y kwin-x11
 echo "Dolphin is the default file manager in the Plasma, intended to be both powerful and easy to use."
 apt-get install --no-install-recommends -y dolphin
 
+echo "This package contains plugins for Dolphin that enhance its functionalities."
+apt-get install --no-install-recommends -y dolphin-plugins
+
 echo "Desktop configuration application."
 apt-get install --no-install-recommends -y systemsettings
 
