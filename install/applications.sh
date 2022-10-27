@@ -24,5 +24,8 @@ apt-get install --no-install-recommends -y gwenview
 echo "Video Player"
 apt-get install --no-install-recommends -y dragonplayer
 
+echo "Music Player"
+apt-get install --no-install-recommends -y elisa
+
 echo "PDF viewer"
 apt-get install --no-install-recommends -y okular
