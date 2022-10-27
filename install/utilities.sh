@@ -50,3 +50,6 @@ apt-get install --no-install-recommends -y plasma-workspace-wallpapers
 
 echo "Disk usage analysis"
 apt-get install --no-install-recommends -y filelight
+
+echo "Printer configuration and monitoring tools"
+apt-get install --no-install-recommends -y print-manager
