@@ -56,3 +56,6 @@ apt-get install --no-install-recommends -y print-manager
 
 echo "KDE Bluetooth stack"
 apt-get install --no-install-recommends -y bluedevil
+
+echo "Network Time Protocol"
+apt-get install --no-install-recommends -y ntp
