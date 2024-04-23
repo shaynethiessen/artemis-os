@@ -59,3 +59,6 @@ apt-get install --no-install-recommends -y bluedevil
 
 echo "Network Time Protocol"
 apt-get install --no-install-recommends -y ntp
+
+echo "Support for more Image Types"
+apt-get install --no-install-recommends -y kimageformat-plugins
