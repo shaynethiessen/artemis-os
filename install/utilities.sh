@@ -24,9 +24,6 @@ apt-get install --no-install-recommends -y unar
 echo "Unarchiver for .rar files"
 apt-get install --no-install-recommends -y unrar-free
 
-echo "Archiver for .rar files"
-apt-get install --no-install-recommends -y rar
-
 echo "Retrieves files from the web"
 apt-get install --no-install-recommends -y wget
 
