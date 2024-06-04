@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "System Guard allows you to monitor various statistics about your system."
-apt-get install --no-install-recommends -y ksysguard
+echo "Provides an interface for monitoring system sensors, process information and other system resources. "
+apt-get install --no-install-recommends -y plasma-systemmonitor
 
 echo "Antivirus"
 apt-get install --no-install-recommends -y clamav
