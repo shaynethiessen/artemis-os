@@ -1,5 +1,5 @@
 # artemis-os
-OS Install Scripts
+Install scripts for building a private, secure, and anonymous OS.
 
 Applications
 
