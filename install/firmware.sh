@@ -21,13 +21,6 @@ apt-get install --no-install-recommends -y intel-microcode
 echo "CPU firmware"
 apt-get install --no-install-recommends -y amd64-microcode
 
-echo "Needed for building kernel modules (nvidia)"
+echo "Needed for building kernel modules"
 apt-get install --no-install-recommends -y linux-headers-amd64
-
-echo "Nvidia drivers"
-apt-get install --no-install-recommends -y nvidia-driver
-
-echo "NVIDIA binary Vulkan Spir-V compiler librar"
-apt install --no-install-recommends -y libnvidia-glvkspirv
-
 
