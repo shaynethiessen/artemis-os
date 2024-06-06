@@ -13,3 +13,7 @@ Applications
 - Security related applications and tools.
 ## Utilities
 - Archiver, Calculator, Disk Formatter etc.
+
+## Optional Parameters
+- -m
+  -  test: skips commands that might break in use systems
