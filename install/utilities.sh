@@ -51,6 +51,9 @@ apt-get install --no-install-recommends -y filelight
 echo "KDE Bluetooth stack"
 apt-get install --no-install-recommends -y bluedevil
 
+echo "KDE Power Management"
+apt-get install --no-install-recommends -y powerdevil
+
 echo "Network Time Protocol"
 apt-get install --no-install-recommends -y ntp
 
